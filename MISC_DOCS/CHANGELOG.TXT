@@ -1,0 +1,605 @@
+==============================================
+Latest additions : (as of Apr 16 2012)
+
+FreePBX / Elastix pre-authenticated Remote Code Execution Exploit
+Drupal FCKEditor/CKEditor module remote PHP execution Exploit
+NetOp Remote Control Buffer Overflow Exploit
+Sysax Multi Server <= 5.57 Directory Traversal Tool (Post Auth) Exploit
+Cyberoam CR50ia 10.01.0 build 678 UTM OS Command Execution Exploit
+Sunway Force Control SCADA (6.1 SP3) httpsvr.exe Exploit
+Sony Bravia Remote Denial of Service [ Tested on Sony Bravia TV (KDL-32CX525) ] Exploit
+GoldenFTP 4.70 PASS Exploits
+Dolibarr ERP & CRM OS Command Injection Exploit
+LANDesk Lenovo ThinkManagement Suite 9.0.3 Core Server AMTConfig.Business.dll RunAMTCommand Remote Code Execution Vulnerability Exploit
+LANDesk Lenovo ThinkManagement Suite 9.0.3 Core Server WSVulnerabilityCore.dll SetTaskLogByFile() Remote Arbitrary File Deletion Vulnerability Exploit
+Koprana CMS Remote Upload Exploits
+EMC IRM License Server (Windows) ( freezing caused by multiple commands) Exploit
+MS12-020 rdpclient.exe RDP Remote DoS Exploits
+
+==============================================
+Latest additions : (as of Mar 21 2012)
+
+Digital College v1.1 Remote File Inclusion Vulnerability Exploits
+eFront <= 3.6.10 (build 11944) 'templateName' - templateContent - RCE Exploit
+phpScheduleIt <= 1.2.10 Remote Code Execution Exploit by EgiX Exploit
+phpLDAPadmin <= 1.2.1.1 Remote PHP Code Injection Exploit by EgiX
+Jaws 0.8.14 Remote File Inclusion Vulnerability Exploits
+2Moons v1.4 RFI Vulnerability Exploits
+Freefloat FTP Server ALLO Buffer Overflow Vulnerability Exploit
+JBOSS AS Remote Exploits v2
+vBulletin® Version 4.1.7 Beta 1 Multiple Vulnerability RFI Exploits
+PHP Photo Album <= (0.4.1.16) Multiple Remote PHP Code Injection Exploits
+MyNews v1.2  Remote File Inclusion Vulnerability Exploits
+Zenphoto <= 1.4.1.4 Remote Code Execution Exploit by EgiX
+Trying JCE Joomla Extension (Auto Shell Uploader) V0.1 Exploit
+Wordpress Kish Guest Posting Plugin 1.0 Unrestricted File Upload Exploit
+Savant Web Server 3.1 Buffer Overflow Vulnerability Exploit
+FreeBSD telnetd encryption Remote Root Exploit
+SAPID Stable RFI Exploits
+WorldMail imapd 3.0 (egg hunter) SEH Overflow Exploit
+Artmedic Web Design RFI Vulnerability Exploit
+i2soft Technology RFI Vulnerability Exploit
+NetCat CMS PHP Code Injection Vulnerability Exploit
+PHP Support Tickets v2.2 PHP Code Injection Vulnerability Exploit
+ardeaCore 2.2 Remote File Include Vulnerability Exploit
+NJStart Communicator MiniSmtp Buffer Overflow Win7 Ultimate [ASLR Bypass] Exploit
+Sysax <= 5.53 SSH Username BoF Pre Auth RCE (Egghunter) Exploit
+Sysax Multi Server 5.53 SFTP Post Auth SEH Exploit (Egghunter) Exploit
+cPassMan v1.82 Remote Command Execution Exploit
+AlegroCart <= 1.2.7 (spellchecker.php) Remote Command Execution Vulnerability Exploit
+EditWRX CMS Remote Code Execution + Admin Bypass Zero Day Exploit
+Nova CMS RFI Vulnerability Exploits
+MachForm.v2.4 RFI Vulnerability Exploits
+GLPI <= 0.80.61 CVE-2012-1037 RFI
+Sysax Multi Server <= 5.52 File Rename BoF Exploit
+BASE 1.4.5 RFI / Creat Shell Vulnerability Exploits
+gocart-1.0.2 RFI Vulnerability Exploits
+Anfibia Remote Command Execution (RCE) Vulnerability Exploit
+ZenPhoto (CVE-2012-0993) Arbitrary PHP Code Execution Exploit
+vBadvanced CMPS <= v3.2.2 RFI Exploit
+Xitami Web Server 2.5 Remote Buffer Overflow (Egghunter)
+Xitami Web Server 2.5b4 (Windows XP Pro English [Service Pack 3]) Remote Buffer Overflow Exploit
+mini CMS / News Script Lite 1.0 Remote File Include Exploit
+
+==============================================
+Latest additions : (as of Sept 26 2011)
+
+CA ARCserve D2D r15 GWT Command Execution Exploit
+Freefloat FTP 1.0 Any Non Implemented Command Buffer Overflow Exploit
+FreeFloat FTP Server ACCL Buffer Overflow Exploit
+Freefloat FTP 1.0 ABOR Exploit
+MeshCMS v3.5 Remote Code Execution Exploit
+PHP Nuke 8.3 MT AFU Shell Upload Vulnerability Exploits
+WebSVN 2.3.2 Unproper Metacharacters Escaping exec() Remote Commands Injection Vulnerability Exploits
+Sagem Routers Remote Auth Bypass Exploits
+Zoneminder 1.24.3 Remote File Inclusion Vulnerability Exploits
+WordPress TimThumb Plugin - Remote Code Execution Exploit 
+Solar FTP 2.1.1 PASV Command PoC Exploits
+phpMyAdmin '/scripts/setup.php' CVE-2009-1151 PHP Code Injection RCE PoC v0.11 Exploit
+BisonFTP Server <=v3.5 Remote Buffer Overflow Exploits
+cdeVision RFI Exploit
+Exploit EChat Server <= v2.5 Remote Buffer Overflow Exploit
+SYMANTEC AV w/ INTEL FILE TRANSFER SERVICE REMOTE SYSTEM LEVEL Exploits
+PlaySMS <= Remote File Inclusion Vulnerability Exploit
+Openads-2.0.11 Remote File Inclusion Vulnerability Exploit
+SaurusCMS-CE (CommunityEdition) v4.7 RFI Exploits
+MiaCMS v4.9.0 Multiple Remote File Inclusion Vulnerability Exploits
+724CMS Eneterprise (index.php) (section.php) RFI Exploits
+Sunway SCADA Overflow Exploit
+Trying BisonFTP Server v3.5 (MKD) Remote BOF Exploit
+Pluck CMS 4.7 RFI Exploits
+Cerberus FTP Server 4.0.9.8 (REST) Remote BOF Exploit
+KnFTPd FTP Server v1.0.0 Multiple Command Remote Buffer Overflow Exploit
+FreeFloat FTP Server ACCL Buffer Overflow Exploit
+FreeFloat FTP Server REST and PASV Buffer Overflow Exploit
+FreeFloat FTP Server MKD Buffer Overflow Exploit
+Soulseek 157 NS < 13e & 156.* Remote Peer Search Code Execution Exploit
+Freefloat FTP Server DEP Bypass Buffer Overflow Exploit
+Relocate Upload Wordpress plugin RFI Exploit
+Wpeasystats Wordpress plugin RFI Exploit
+Annonces Wordpress plugin RFI Exploit
+Thecartpress Wordpress plugin RFI Exploit
+Zingiri Web Shop Wordpress plugin RFI Exploits
+Mailing List Wordpress plugin RFI Exploit
+Disclosure Policy Plugin Wordpress plugin RFI Exploit
+KnFTP Buffer Overflow Exploit
+KnFTP 1.0.0 Server - 'USER' command - Remote Buffer Overflow Exploit
+
+==============================================
+Latest additions : (as of Jul 19 2011)
+
+CHARTAC BUSINESS SERVICES Remote File Inclusion Vulnerability Exploit
+b2evolution 4.0.5 (default.php) Remote File Inclusion Vulnerability Exploits
+4images 1.7.9 Multiple RFI Exploits
+PrestaShop <=1.3.6 (cms.php) Remote File Inclusion Exploit
+Ve-EDIT v 0.1.4 Remote File Inclusion Vulnerability Exploit
+Wordpress Spellchecker Plugin RFI Vulnerability Exploit
+ttCMS_v5 Remote File Inclusion Exploit
+IBM Tivoli Endpoint 4.1.1 Remote SYSTEM Exploit
+Avaya IP Office Manager TFTP Server Version 8.1 Directory Traversal Exploit
+PMA3 (Version below 3.3.10.2 and 3.4.3.1) Remote Code Execution Exploit
+Freefloat FTP [LIST] Buffer Overflow Exploit
+SGL.cms v0.6.8 (FCKeditor) Arbitrary Shell Upload Exploit
+BbZL.PhP Remote File Inclusion Exploit
+Easy~Ftp Server v1.7.0.2 Post-Authentication BoF Exploit (II)
+Several IP camera products Remote Command Execution Vulnerability Exploit
+MODACOM URoad-5000 Backdoor/Remote command execution Exploit
+CmsFromScratch 1.9.2 (FCKeditor) Arbitrary Shell Upload Exploit
+ActFax Server FTP Remote BOF (post auth) Exploit
+vBseo 3.1.0 (vbseo.php vbseourl) Remote Command Execution Exploit
+Easy~Ftp Server v1.7.0.2 Post-Authentication BoF Exploit (I)
+nodesforum 1.059 Remote File Inclusion Vulnerability Exploit
+HP Data Protector 6.11 Remote Buffer Overflow Exploit
+Exim 4.63 <-> 4.70 (RedHat/Centos/Debian) Remote Root Exploit
+HP OpenView Network Node Manager (OV NNM) 7.51 and 7.53 CGI webappmon.exe OvJavaLocale Buffer Overflow Exploit
+HP OpenView Network Node Manager getnnmdata.exe (ICount) CGI Buffer Overflow Exploit
+HP OpenView Network Node Manager ovwebsnmpsrv.exe Unrecognized Option Buffer Overflow Exploit
+HP OpenView Network Node Manager getnnmdata.exe (Hostname) CGI Buffer Overflow Exploit
+HP OpenView Network Node Manager snmpviewer.exe Buffer Overflow Exploit
+HP NNM CGI webappmon.exe execvp Buffer Overflow Exploit
+HP OpenView Network Node Manager ovwebsnmpsrv.exe ovutil Buffer Overflow
+HP OpenView Network Node Manager getnnmdata.exe (MaxAge) CGI Buffer Overflow Exploit
+Progea Movicon TCPUploadServer Seclective Operations Remote Exploit
+Avira AntiVir personal edition avguard.exe 7.00.00.52 local heap Overflow Exploit
+
+==============================================
+Latest additions : (as of Mar 04 2011)
+
+Freefloat FTP Server Buffer Overflow Vulnerability Exploit
+JAKCMS <= v2.01 Code Execution Exploit
+Openedit <= v5.1294 Remote Code Execution Exploit
+ActFax Server (LPD/LPR) Remote Buffer Overflow Exploit
+Coppermine Photo Gallery <== (picmgmt.inc.php) Remote Command Execution Exploits
+KingView 6.53 SCADA HMI PoC Heap Overflow Exploit
+Windows Message Queuing Service (MS07-065) Remote RPC BOF Exploit
+Easy FTP Server v1.7.0.11 Multiple Command Buffer Overflow Exploits
+TinyWebGallery v 1.8.3 Remote File Include Vulnerbility Exploit
+Froxlor v 0.9.15 Remote File Include Vulnerability Exploit
+EasyPhpAlbum v 1.4.4 Remote File Include Vulnerability Exploit
+elxis_2009.2_electra_rev2631 Multiple Remote File Include Vulnerability Exploits
+Nucleus v3.61 Multiple Remote File Include Vulnerability Exploits
+PHP Dompdf File RFI Vulnerability Exploit
+ardeaCore_v2.25 PHP Framework Multiple RFI Vulnerability Exploits
+Joomla Component com_ponygallery Multiple Remote File Include Exploits
+myBloggie 2.1.6 Remote File Inclusion Exploit
+Sahana Agasti <= 0.6.4 Multiple Remote File Include Exploits
+net2ftp RFI Exploit
+Joomla Component com_adsmanager Remote File Include Exploit
+
+==============================================
+Latest additions : (as of Nov 30 2010)
+
+HP OpenView NNM webappmon.exe execvp_nc Remote Code Execution Exploit
+MetInfo 2.0 Code Injection Exploit
+MetInfo 3.0 Code Injection Exploit
+MetInfo 3.0 File Upload (fckeditor) Exploit
+AWCM v2.1 final Remote File Inclusion Vulnerability Exploits
+Joomla Component Phocadownload RFI Vulnerability Exploit
+Joomla Component Jcomments RFI Vulnerability
+JAF CMS 4.0 RC2 RFI Vulnerabilities
+JAF CMS 4.0 RC2 Shell Upload Exploit
+Mambo Component com_smf 1.0.5 RFI Vulnerability Exploit
+Mambo Component com_a6mambocredits RFI Vulnerability Exploit
+Joomla Component com_jreactions RFI Vulnerability Exploit
+Joomla Component com_swmenupro RFI Vulnerability Exploit
+Joomla Component joomlaXplorer RFI Vulnerability Exploit
+Joomla Component com_smartformer v.2.4 RFI Vulnerability Exploit
+awcm v2.1 final Remote File Inclusion Exploits
+WebRCSdiff 0.9 (viewver.php) Remote File Inclusion Exploit
+RoSPORA <= 1.5.0 Remote PHP Code Injection Exploit
+Auto CMS <= 1.8 Remote Code Execution Exploit
+ProFTPD IAC Remote Root Exploits
+phpCow v2.1 File Inclusion Vulnerability Exploit
+WordPress Database Interface Toolkit 0.1.7 Shell Upload Vulnerability Exploit 
+XBMC soap_action_name post upnp sscanf Remote Buffer Overflow Exploit
+Home FTP Server v1.11.1.149 Remote Directory Traversal Exploit
+Easy FTP Server v1.7.0.11 [MKD] Remote BoF Exploit Post Authentication Exploit
+Easy FTP Server v1.7.0.11 (Post Auth) CWD Command Remote Buffer Overflow Exploit
+
+==============================================
+Latest additions : (as of Oct 30 2010)
+
+DATAC RealWin 1.06 SCADA System SEH Overwrite Buffer Overflow Exploit
+Pragyan CMS 3.0 Remote File Inclusion Vulnerability Exploits
+Joomla  Component com_banners RFI Vulnerability Exploit
+Joomla Component com_calendrier RFI Vulnerability Exploit
+Joomla Component com_pinboard RFI Vulnerability Exploit
+Joomla Component com_eventcal RFI Vulnerability Exploit
+Fully Modded phpBB 2 Remote File Include Exploits
+EasyFTP PoC 1.7.0.X Crash / Bind Shell Exploit
+CMS Board 1.0 Remote File Include Exploit
+PHP AUCTION FORUM ( prefix ) Remote File Include Exploit
+Disk Pulse Server v2.2.34 Remote Buffer Overflow Exploit
+Your Own Personal [WEB] Server (YOPS) malformed buffer boundary check Overflow Exploit
+PTC Site's RCE Vulnerability Exploit 
+PTC Site's RFI Vulnerability Exploit
+chillyCMS 1.1.3 Arbitrary Shell Upload Vulnerability Exploit 
+Sync Breeze Server v2.2.30 Remote BOF PoC Exploit
+IIS 5.0 FTPd and IIS6 with stack cookie protection  / Remote r00t Exploits (more)
+Oracle WebLogic IIS connector JSESSIONID Remote Overflow Exploit (Shellcode Changed) 
+ProSSHD 1.2 'scp_get()' Buffer Overflow Exploit (Shellcode Changed) 
+Easy FTP Server v1.7.0.11 'XRMD' Command Buffer Overflow (Post Auth)
+29o3 CMS (LibDir) Multiple RFI Vulnerability Exploits
+68KB v1.0.0rc4 Remote File Include Vulnerability Exploit
+AdaptCMS 2.0.0 Beta (init.php) Remote File Inclusion Vulnerability Exploit
+AimEx 3.0 Remote Include Exploit
+Advneced Management For Services Sites ! am4ss1.1 ! (RFI) Vulnerability Exploits
+BlaB! Lite <== 0.5 ( register.php ) Remote File Inclusion Vulnerability Exploit
+ccTiddly v1.7.6 Multiple Remote File Include Vulnerability Exploits
+clearBudget v0.9.8 Remote File Include Vulnerability Exploit
+Dark Portal (login.php) Remote File Inclusion Vulnerability Exploit
+DDLCMS v2.1 (skin) Remote File Inclusion Vulnerability
+DiY-CMS 1.0 Remote File Inclusion Exploits
+apps dompdf RFI Vulnerability Exploit
+deV!L`z Clanportal V1.5 RFI Vulnerability Exploits
+DynPG CMS Remote File Inclusion Vulnerability Exploits
+Esvon Classifieds ( pdo.inc.php ) (class.phpmailer.php ) Exploits
+EZPX photoblog 1.2 beta Remote Include Exploit
+Facil-CMS RFI Vulnerability Exploit
+FCMS_2.2.3 Remote File Inclusion Exploits
+Free PHP photo gallery script Remote File Inclusion Vulnerability Exploit
+FreephpWebsiteSoftware 1.0 Remote File Include Vulnerability Exploit
+Free Simple Software V1.0 Remote File Include Vulnerability Exploits
+FusionForge 5.0 Multiple (284) Remote File Include Vulnerability Exploits
+Gallo 0.1.0 Remote File Include Vulnerability Exploit
+GR Board v1.8.6.1 stab (page.php?theme) Remote File Inclusion Vulnerability Exploit
+Groone's Simple Contact Form (abspath) RFI Vulnerability Exploit
+HINNENDAHL.COM Gaestebuch 1.2 Remote File Inclusion Vulnerability Exploit
+HotNews 0.7.2 Remote File Inclusion Vulnerability Exploit
+Orca - Interactive Forum Script Remote File Inclusion Vulnerability Exploit
+iJoomla.Magazine.v.3.0.1 Remote File Inclusion Exploit
+jevoncms Remote File Inclusion Exploit
+Joomla Component (com_sef) RFI Vulnerability Exploit
+Joomla com_jomestate RFI Vulnerability Exploit
+Joomla Component com_jcs RFI Vulnerability Exploit
+Joomla Component com_lurm RFI Vulnerability Exploit
+Joomla Component com_mgm RFI Vulnerability Exploit
+Joomla Multiple (32) Remote File Include Vulnerability Exploits
+Joomla Component com_pollxt RFI Vulnerability Exploit
+Joomla Component com_rwcards RFI Vulnerability Exploit
+Joomla Component com_thopper RFI Vulnerability Exploit
+JV2 Folder Gallery <==3.1  (gallery.php) RFI Vulnerability Exploit
+KDPics RFI Vulnerability Exploit
+HINNENDAHL.COM Kontakt Formular 1.1 (formmailer.php) RFI Vulnerability Exploit
+Linker IMG <==1.0 (index.php) Remote File Inclusion Vulnerability Exploits
+Madirish Webmail Remote File Inclusion Vulnerability Exploit
+MailForm Remote File Inclusion Vulnerability Exploit
+MassMirror Uploader RFI Vulnerability Exploits
+Multi-lingual E-Commerce System 0.2 Multiple (12) Remote File Inclusion Vulnerability Exploits
+Mp3 Online Id Tag Editor RFI Vulnerability Exploits
+Nakid CMS 0.5.2 Remote Include Exploit
+nuBuilder 10.04.x and lower(maybe) RFI Vulnerability Exploits
+Nucleus Plugin Gallery RFI Vulnerability Exploit
+Nucleus Plugin Twitter Remote File Inclusion Vulnerability Exploit
+Openannuaire Openmairie Annuaire 2.00 Remote File Inclusion Vulnerability Exploits
+Opencimetiere 2.01 Multiple (23) Remote File Include Vulnerability Exploits
+Openplanning 1.00 RFI Multiple (7) File Include Vulnerability Exploits
+Openregistrecil 1.02 RFI Multiple (19) File Include Vulnerability Exploits
+Openreglement 1.04 RFI Multiple (12) File Include Vulnerability
+Openscrutin 1.03 RFI Multiple (5) File Include Vulnerability Exploits
+Openurgence vaccin 1.03 RFI Multiple (10) File Include Vulnerability Exploits
+OpenX (phpAdsNew) Remote File inclusion Vulnerability Exploit
+oscommerce-3.0a5 Remote File Inclusion Exploit
+pecio CMS v2.0.5 (template) Multiple Remote File Include Vulnerability Exploit
+phpBazar V2.1.1 stable RFI Vulnerability Exploit
+PHP Classifieds v7.3 RFI Vulnerability Exploit
+phpGraphy <==0.9.13 (mysql_cleanup.php) RFI Exploit
+PHP-Nuke-8.1-seo-Arabic Remote File Inclusion Exploits
+PHP SETI@home web monitor (phpsetimon) RFI Vulnerability Exploit
+pithcms (theme) Remote File Inclusion VUlnerability Exploit
+Police Municipale Open Main Courante 1.01beta (RFI) Multiple (18) File Include Vulnerability Exploits
+RTRandomImage <==0.1 (index.php) Remote File Inclusion Vulnerability Exploit
+SaurusCMSupdate4.7.0 Remote File Inclusion Vulnerability Exploits
+Simple Attach (Exploitation abspath) Vulnerability Exploit
+snipegallery-3.1.5 Multiple Remote (10) File Inclusion Vulnerability Exploits
+sphider Remote File Inclusion Vulnerabilty Exploit
+Stadtaus Voting v1.9.1 Remote File Include Vulnerability Exploit
+Textpattern ( index.php ) Remote File Include Vulnerability Exploit
+Vieassociative Openmairie 1.01 beta (RFI) Multiple (14) File Include Vulnerability
+Waibrasil Remote File Inclusion Vulnerability Exploit
+webYourPhotos <==6.05 ( index.php ) File Inclusion Vulnerability Exploit
+YACK CMS 10.5.27 Remote File Inclusion Vulnerability Exploit
+No-exploit.Com Remote File Inclusion Vulnerability Exploit
+yappa <==3.1.2 (yappa.php) Remote File Inclusion Vulnerability Exploits
+yupana-0.1rc1 RFI Vulnerability Exploit
+Microsoft SRV2.SYS SMB Negotiate ProcessID Function Table Dereference Exploit
+
+==============================================
+Latest additions : (as of Jul 31 2010)
+
+68kb_Multi_RFI
+Open Web Analytics 1.2.3 Remote File Inclusion Vulnerability Exploit
+Direct News 4.10.2 Multiple RFI
+Joomla component com_universal (UWCMS Universal Web CMS)
+HP OpenView NNM OvWebHelp.exe CGI Topic Overflow Exploit
+SAP MaxDB Malformed Handshake Request Remote Code Execution Exploit
+CMS Faethon 1.3, Multiple other versions and 2.2.0-ultimate.7z RFI
+DynPG CMS Remote File Inclusion Vulnerability Exploit 
+KimsQ 040109 Remote File Inclusion Vulnerability Exploits
+openMairie openRegistreCIL Remote File Includsion Vulnerability Exploits
+Gallo 'gfw_smarty.php' Remote File Include Vulnerability
+deV!L'z Clanportal Multiple Remote File Inclusion Vulnerabilities
+Opencimetiere 2.01 Multiple Remote File Include Vulnerability
+Madirish Webmail 2.01 (basedir) RFI Vulnerability
+Openfoncier 2.00 Multiple File Include Vulnerability
+Puntal 2.1.0 Remote File Inclusion Vulnerability
+Openannuaire Openmairie Annuaire 2.00 Multiple File Inclusion Vulnerability
+Slooze PHP Web Photo Album v0.2.7 Command Execution Vulnerability
+Opencourrier 2.03beta Multiple File Inclusion Vulnerability
+UnrealIRCd 3.2.8.1 Backdoor Remote Command Execution Exploit
+BigAnt Server v2.52 Remote BOF (Perl)
+BigAnt Server version 2.50 SEH Overwrite - 0day
+Bopup Communications Server 3.2.26.5460 (Mar 18 2009) Remote SYSTEM Exploit
+File Sharing Wizard Version 1.5.0 Exploit
+LinPHA <== 1.3.2 ( rotate.php ) RCE Exploit
+Novell eDirectory 8.8 SP5 iConsole BOF Vulnerability Exploit
+Zeroboard 4.1 pl7 Shell Upload Vulnerability Exploit
+CMS Made Simple 1.8 Antz Toolkit 1.02 Module Shell Upload Vulnerability
+CMS Made Simple 1.8 Download Manager 1.4.1 Module Shell Upload Vulnerability
+HP OpenView NNM getnnmdata.exe CGI Invalid MaxAge Remote Code Execution 
+HP OpenView NNM getnnmdata.exe CGI Invalid ICount Remote Code Execution 
+HP OpenView NNM getnnmdata.exe CGI Invalid Hostname Remote Code Execution
+HP Power Manager Administration Universal Buffer Overflow Exploit
+Easy FTP Server 1.7.0.2 Remote BoF Exploit
+NaviCopa Web Server 3.01 Remote Buffer Overflow Exploit
+Free PHP photo gallery script Remote Command Execution Vulnerability
+iOffice 0.1 Remote Command Execution Vulnerability Exploit
+Easy FTP Server v1.7.0.11 [MKD] Remote BoF Post Authentication Exploit
+Easy FTP Server v1.7.0.11 [LIST] Remote BoF Post Authentication Exploit
+UPlusFTP Server v1.7.1.01 [ HTTP ] Remote BoF PoC Exploit
+UPlusFTP Server v1.7.1.01 [ CWD ] Remote BoF PoC Exploit
+DM Filemanager (fckeditor) Remote Arbitrary File Upload Exploit
+PHP-Fusion Remote Command Execution Vulnerability Exploit
+Sun Microsystems Sun Java System Web Server Sparc Remote Exploit
+Telnet-Ftp Service Server v1.x Multiple Vulnerability Exploit
+Femitter Server FTP 1.x Multiple Vulnerability Exploit
+Ubiquity Nanostation5 (Air OS) 0day Remote Command Execution Exploit
+ProSysInfo TFTP Server TFTPDWIN 0.4.2 Exploit
+
+==============================================
+Latest additions : (as of Mar 30 2010)
+
+Newsletter Tailor Remote File Include Vulnerability
+Izumi <= 1.1.0 RFI Vulnerability
+SyntaxCMS <= 1.3 Remote File Inclusion Vulnerability
+CodeIgniter v1.0 Remote File Inclusion Vulnerability
+Katalog Stron Hurricane RFI Vulnerability
+EncapsCMS <= 0.3.6 (config[path]) Remote File Inclusion Vulnerability
+UplusFtp Server 1.7.0.12 Remote Buffer Overflow Exploit
+Vermillion FTP Deamon Remote BOF Exploit
+Easy~Ftp Server v1.7.0.2 Post-Authentication BoF Exploit
+Dokuwiki 2009-02-14 Remote/Temporary File Inclusion Exploit
+EGroupware 1.4.001+.002, 1.6.001+.002 and EGroupware Premium Line 9.1 and 9.2 Remote Command Execution Exploit
+Gnat-TGP <= 1.2.20 Remote File Include Vulnerability
+MiNBank 1.5.0 Remote Command Execution Exploit
+OES (Open Educational System) <= 0.1b Multiple RFI Exploit
+PEAR v.1.9.0 Multiple Remote File Inclusion Vulnerability
+PHPIDS 0.4 - Remote File Inclusion Vulnerability
+ProSSHD 'scp_get()' Buffer Overflow Vulnerability Exploit
+RCE for Easy FTP Server 1.7.0.2 w/ RET overwrite Exploit
+Script Slaed Cms 4 RFI
+Web Server Creator - Web Portal v 0.1 Multiple RFI
+WikyBlog-1.7.3rc2 RFI Vulnerability
+ProSSHD buffer overflow Exploit
+osDate Remote File Inclusion Vulnerability
+deV!L`z Clanportal 1.5.2 Remote File Include Vulnerability
+SOFTSAURUS 2.01 Multiple Remote File Include Vulnerabilities
+Apache 2.2.14 mod_isapi Remote SYSTEM Exploit
+Trouble Ticket Express Remote Code Execution Exploit
+MicroWorld eScan Antivirus < 3.x  Remote Root Command Execution Exploit
+NotSopureEdit <= 1.4.1 Remote File Include Vulnerability
+Vanilla-1.1.10 <= Remote File Inclusion Vulnerability
+Yupi Cms 0.44 <= Remote File Inclusion Vulnerability
+Fw-BofF (oolime-resurrection) 1.5.3beta  Remote Inclusion Vulnerability
+WebMaid CMS <= 0.2-6 Beta Multiple Remote File Include Vulnerability
+Joomla component com_universal <= Remote File Inclusion Vulnerability
+Joomla component com_jwmmxtd <= Remote File Inclusion Vulnerability
+Insky CMS v006-0111 Multiple Remote File Include Vulnerability
+MX Simulator Server Remote Buffer Overflow Exploit
+
+==============================================
+Latest additions : (as of Jan 29 2010)
+
+Dazzle Blast Remote File Inclusion Vulnerability
+phptraverse <= 0.8.0 Remote File Include Vulnerability
+NukeHall <= 0.3 Multiple Remote File Include Vulnerability
+Joomla 1.5.12 Remote Code Execution via TinyMCE upload vulnerability
+Joomla / Mambo Component com_ezine Remote File Include vulnerability
+SugarCRM SugarCRM 5.5.0.RC2, SugarCRM SugarCRM 5.2.0j Remote File Include vulnerability
+Article Directory Index Remote File Inclusion Vulnerability Exploit
+SweetRice <= 0.5.0 Remote File Include Vulnerability
+KR-Web <= 1.1b2 Remote File Include Vulnerability
+eoCMS <= 0.9.03 Remote FIle Include Vulnerability
+Automne.ws CMS 4.0.0rc2 Multiple RFI Vulnerability
+HP Power Manager Administration Universal Buffer Overflow Exploit
+Public Media Manager <= 1.3 (forms_dir) Remote File Include Vulnerability
+SiSplet CMS <= 2008-01-24 Multiple Remote File Include Exploit
+UBB.threads 7.5.4.2 Remote File Inclusion Vulnerability Exploits
+gpEasy <= 1.5RC3 Remote File Include Exploit
+PHP-Calendar v1.1 'configfile' Remote File Inclusionvulnerability
+SaurusCMS <= 4.6.4 Multiple RFI Exploit
+Ptag <= 4.0.0 Multiple RFI Exploit
+60cycleCMS <= 2.5.0 Remote File Include Exploit
+FestOs <= 2.2.1 Multiple RFI Exploit
+Family Connections <= 2.1.3 Remote Shell Upload Vulnerability Exploit
+TFTP SERVER Buffer Overflow Remote Exploit
+DBHCMS Web Content Management System v1.1.4 RFI Vulnerability Exploits
+IBM Tivoli Storage Manager Express (5.3) CAD Service Buffer Overflow Exploit
+Cyrus IMAPD Buffer Overflow Exploit
+UBB threads v6 RFI Exploits
+CA ArcServe Buffer Overflow Exploit
+HP NNM 7.53 ovalarm.exe CGI Pre Authentication Remote Buffer Overflow Exploit
+Alt-N SecurityGateway 1.00-1.01 Remote Overflow Exploit
+Piwik OpenFlash Chart Remote Code Execution Exploit
+OSSIM Interactive Shell Remote Execution Exploit
+Calendarix <= 0.7 Remote File Inclusion Exploit
+LightOpen CMS (smarty.php) Remote File Inclusion Exploit
+Novell eDirectory 8.8 SP5 BoF Vuln - 0day Exploit
+Rezervi <= 3.0.2 (mail.inc.php) RFI Vulnerablities
+W-Agora v.4.2.1 RFI Vulnerability Exploit
+NetTransport Download Manager version:2.90.510 0day Exploit
+Ninja Blog v4.8 RFI Exploit
+Profitcode SHoppiong Cart RFI Exploit
+FAQEngine 4.24.00 Remote File Inclusion Vulnerabilities
+FileNice file browser Remote File Inclusion Exploit
+Gbook MX v4.1.0 Arabic Version Remote File Inclusion Exploit
+Profitcode Shoping dloads_docroot Remote File Inclusion Exploit
+asaher pro 1.0 Remote File Inclusion Exploits
+Fatwiki (fwiki) Remote File inclusion Exploit
+Web Server Creator - Web Portal v 0.1 RFI Exploit
+Bits Video Script 2.05 Gold Version Beta RFI Exploit
+DataLife Engine 8.3 RFI Vulnerability Exploit
+WBBlog Remote File Inclusion Vulnerability Exploit
+Mamboleto Joomla! component Remote File Inclusion Exploit
+Joomla Component com_ajaxchat Remote File Inclusion Exploit
+Joomla Component com_booklibrary Remote File Inclusion Exploit
+Joomla Component com_jcalpro Remote File Inclusion Exploit
+Joomla Component groupjive 1.8 B4 Remote File Inclusion Exploit
+Joomla Component MojoBlog Remote File Inclusion Exploits
+Joomla JD-WordPress RFI Vulnerability Exploit
+EZRecipeZee CMS Remote File Inclusion Exploit
+EZsneezyCal CMS Remote File Inclusion Exploit
+AdaptCMS Lite 1.5 Remote File Inclusion Vulnerability Exploit
+MAXcms 3.11.20b RFI Vulnerability Exploit
+Mambo com_koesubmit 1.0.0 Remote File Inclusion Exploit
+projectbutler - 1.5.0 (offset) RFI Vulnerability
+MyBackup 1.4.0  Remote File Inclusion Vulnerability Exploit
+Facil Helpdesk RFI Vulnerability Exploit
+Drunken Golem Gaming Portal (admin_news_bot.php) RFI Vulnerability Exploit
+Joomla com_booklibrary_1.5.2.4 Remote File Inclusion Vulnerability Exploit
+DM FileManager 3.9.4 Remote File Include Vulnerability Exploit
+Ciamos CMS <= 0.9.5 (module_path) Remote File Include Vulnerability Exploit
+Campsite 3.3.0 RC1 Multiple Remote File Inclusion Vulnerabilities
+Mundi Mail RFI Vulnerability Exploit
+LM Starmail 2.0 RFI Vulnerability Exploit
+Outreach Project Tool <= 1.2.6 Remote File Inclusion Vulnerability Exploit
+PointComma <= 3.8b2 Remote File Inclusion Vulnerability Exploit
+Jax FormMailer 3.0.0 Remote File Inclusion Vulnerability Exploit
+AROUNDMe <= 1.1 (language_path) Remote File Inclusion Exploit
+efront <= 3.5.4 Remote File Inclusion Vulnerability Exploit
+School Data Navigator Remote File Inclusion Vulnerability Exploit
+Ve-EDIT v 0.1.4 Remote File Include Vulnerability Exploit
+RunCMS <= 1.6.3 "double ext" Remote Shell Injection Exploit
+LightBlog <= 9.9.2 (register.php) Remote Code Execution Exploit
+
+==============================================
+Latest additions : (as of Nov 3 2009)
+
+SIDVault 2.0e Windows Remote Buffer Overflow
+IIS 5.0 FTPd / Remote r00t exploit
+OBOphiX [fonctions_racine.php] <= 2.7.0 Remote File Include Vulnerability 
+PHPope <= 1.0.0 Multiple Remote File Include Vulnerabilities
+FreeSchool <= 1.1.0  Mutiple Remote File Include Vulnerabilities
+Kingcms v0.6.0 [menu.php] Remote File Inclusion Vulnerability
+Achievo 1.3.4(debugger.php) Remote File Include Vulnerability
+Advanced comment system1.0  Remote File Inclusion Vulnerability
+Aiocp 1.4.001 Remote File Inclusion vulnerability
+Aurora Content Management System (Enterprise Edition) [install.plugin.php] <= Remote File Include Vulnerability 
+BAROSmini - BAnner ROtation System mini Multiple Remote File Inclusion vulnerabilities
+Joomla Component com_vehiclemanager 1.0 RFI Vulnerability
+Joomla Component com_realestatemanager 1.0 RFI Vulnerability
+Joomla com_media_library 1.5.3 RFI Vulnerability
+phpCollegeExchange 0.1.5c Multiple Remote File Inclusion vulnerabilities
+ClearContent (image.php url) RFI Vulnerability
+PHPGenealogy v2.0 Rfi
+Dazzle Blast Remote File Inclusion Vulnerability
+SkaDate Dating Remote FIle Inclusion Vulnerability
+PHP Paid 4 Mail Script File Inclusion vulnerability
+SerWeb <= 2.1.0-dev1 2009-07-02 Multiple Remote File Inclusion Vulnerabilities Exploits
+Ultrize TimeSheet 1.2.2 Remote File Inclusion Vulnerability Exploit
+wordpress plugins wp-Table v1.52 Remote File Inclusion Vulnerability Exploit
+justVisual 1.2 (fs_jVroot) Remote File Inclusion Vulnerabilities Exploits
+SAP Business One 2005-A License Manager Remote Overflow Exploit
+MiniCWB 2.3.0 Multiple Remote File Inclusion Vulnerability
+D-WRT (httpd service) Remote Command Execution Vulnerability Exploit
+ASMAX 804 gu SOHO router system param Command Execution Exploit
+Webradev Download Protect v1.0  Remote File Inclusion
+WP (Wordpress) Plugin Lytebox Remote Code Execution
+Jieqi CMD <= 1.5 Remote Code Execution Exploit
+Soulseek 157 NS Remote Seh Overwrite Exploit
+Geeklog - Pre-Installation Remote File Inclusion Exploit
+Qt quickteam Multiple Remote File Inclusion Vulnerabilities
+Php Recommend <=1.3 Authentication Bypass/Remote File Include/Code Injection Exploits
+ArtForms 2.1b7 Remote File Include Vulnerabilities
+TinyWebGallery <= 1.7.6 LFI / Remote Code Execution Exploit
+Harland Scripts 11 Products Remote Command Execution Exploit
+httpdx <= 0.5b FTP Server (USER) Remote BOF Exploit (SEH)
+httpdx <= 0.5b FTP Server (CWD) Remote BOF Exploit (SEH)
+Coppermine Photo Gallery <= 1.4.22 Remote Exploit
+Bitweaver <= 2.6 /boards/boards_rss.php / saveFeed() Remote Code Execution Exploit
+StrawBerry 1.1.1 LFI / Remote Command Execution Exploit           *
+Dokeos LMS <= 1.8.5 "include" Remote Code Execution Exploit
+WebPortal CMS 0.8b Remote File Inclusion Vulnerabilities
+Simpoe Total Calendar 2.4 Remote File Inclusion Vulnerabilities
+MA-DB 0.3.13  RFI Vulnerabilities
+PHP-agenda <= 2.2.5 Remote File Overwriting Exploit
+ftpdmin v. 0.96 RNFR (xp sp3 / case study) Remote Buffer Overflow Exploit 
+Steamcast(HTTP Request) (SEH) Remote Buffer Overflow Exploits
+MA-DB 0.3.13  RFI Vulnerabilities
+DNS Tools (PHP Digger) Remote Command Execution
+
+==============================================
+Latest additions : (as of Apr 11 2009)
+
+X-Forum 0.6.2 Remote Command Execution Exploit
+Family Connection 1.8.1 Remote Code Execution Exploit
+Family Connection 1.8.1 Blind SQL Injection Post Request
+Oracle WebLogic IIS_connector JSESSIONID Remote Overflow Exploit
+Tiny PHP Forum 3.61 File Disclosure / Code Execution Vulnerability Exploit
+Xbmc 8.10 Get Request Remote Buffer Overflow Exploit
+Xbmc 8.10 takescreenshot Request Remote Buffer Overflow Exploit
+Xbmc 8.10 get tag from file name request remote buffer overflow
+Family Connections <= 1.8.2 Remote Shell Upload Exploit
+Xbmc 8.10 (HEAD Request) (SEH) Remote Buffer Overflow Exploit
+Lanius CMS <= 0.5.2 Remote Arbitrary File Upload Exploit
+
+
+==============================================
+Latest additions : (as of Apr 1 2009)
+
+Racer vs 0.5.3 Remote Stack Buffer Overflow Exploit
+EFS Easy Chat Server Authentication Request Buffer Overflow Exploit (SEH)
+Mega File Hosting RFI Vulnerability
+Pluck CMS v 4.6.1 LFI exploit
+Codice CMS 2 Remote Command Execution Exploit
+Syzygy CMS 0.3 SQL-LFI Exploit
+PhotoStand Photobase 1.2.0 Remote Command Execution Exploit
+My Simple Forum v7.1 Log Inj Remote Command Execution Exploit
+FreeSSHd 1.2.1 (rename) Remote Buffer Overflow Exploit
+
+
+==============================================
+Latest additions : (as of Mar 16 2009)
+
+Belkin BullDog Plus UPS-Service Buffer Overflow Exploit
+EFS Easy Chat Server Authentication Request Buffer Overflow (SEH)
+Demium CMS SQL LFI RCE
+mod_jk2 v2.0.2 Buffer Overflow (win32) Exploit 
+Apache_Tomcat_Connector_jk2-2.0.2[mod_jk2] FC678 remote overflow
+Pyrophobia 2.1.3.1  LFI cmd exec exploit
+pPIM 1.01 (notes.php id) Remote Command Execution Exploit
+Apache Tomcat Connector (mod_jk) remote overflow exploit
+Apache (mod_jk) 1.2.19 Remote Stack Overflow Exploit
+PHP Director 0.2.1 (sql into outfile) eval() Injection Exploit
+WeBid <= 0.7.3 RC9 Multiple Remote File Inclusion Vulnerabilities
+Wili CMS 0.4.0 Remote File Inclusion Vulnerabilities
+Graugon Forum v1 Remote SQL cmd Inj Exploit
+Free Arcade Script 1.0 Remote cmd Exploit
+ghostscripter Amazon Shop Remote File Inclusion Exploit
+Golabi CMS Remote File Inclusion Exploit
+phpBB 3 (autopost bot mod <= 0.1.3) Remote File Include Vulnerability Exploit
+
+==============================================
+Latest additions : (as of Feb 20 2009)
+
+ea-gBook 0.1 Remote Command Execution with RFI (c99) Exploit
+CmsFaethon 2.2.0 Ultimate Remote SQL Command Injection Exploit
+MS08-067 Exploit Python Code
+phpyabs 0.1.2 Remote File Include Vulnerability
+wb news v2.1.1 Remote File Include Vulnerability
+webframe 0.76 Remote File Include Vulnerabilities
+AdaptCMS Lite 1.4.2 File Include Vulnerabilities
+Firepack - Remote Command\Code Execution Exploit
+simplePMS CMS v0.1.3a Remote COmmand Execution Exploit
+dork: "Powered by yacs" - YACS version 8.11 Remote File Include Vulnerability
+(Falt4CMS) Nuke ET <= 3.4 (fckeditor) Remote Arbitrary File Upload Exploit

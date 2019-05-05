@@ -1,0 +1,100 @@
+==============================================
+Latest additions : (as of April 16 2012)
+
+Added internal variable and commandline -trojanURL for a few exploits which allow downloads of atacker-defined, possibly connect-back trojans.
+Lots of changes to the the C4 - WAST GUI.
+Multiple internal bug fixes.
+Added support for Denial of Service and Client-Side Interactive Application exploits for C4 - WAST.
+
+==============================================
+Latest additions : (as of March 21 2012)
+
+Various internal modifications for genGETReqCMDx.exe, genGETReqCMDx__2.exe, genGETReqCMDx__3.exe, genGETReqCMDx__4.exe, genGETReqCMDx__6.exe and genGETReqCMDx__7.exe
+Added genGETReqCMDx__8.exe for web exploits requiring commands as a Cookie: parameter.
+Added more functionality to WINDOWS AUTOPWN GUI.
+
+==============================================
+Latest additions : (as of Sept 26 2011)
+
+Added one more commandline parameter -targetOS for list of operating Systems which winAUTOPWN asks to select for the target.
+Added a few ruby exploits which require 'socket' alone for interpretation. GHence, winAUTOPWN now requires ruby installed as well, just like perl, python and php.
+Added support for Reverse cmd Shellcode, shellcodes for Linux, FreeBSD and Solaris as well.
+Added an external module called mod_shellcode which aids in selecting and changing the type of shellcode for any scripted (uncompiled) exploit.
+==============================================
+Latest additions : (as of Jul 19 2011)
+
+Added internal variables and equivalent commandline parameters -perlrevshURL (for a PERL Reverse Shell URL), -mailFROM (smtpsender) and mailTO (smtpreceiver).
+Internal bugfixes and variable behavior corrections.
+Bugfix for -onlyscan in winAUTOPWN. This option was missing and had not been added as 'logged' two versions before.
+Various minor exploitname fixes in the exploits/ directory and binaries.
+Bugfix for winAUTOPWN GUI where the CMS Path was mistakenly showing Active CMS Path
+Bugfix for -doRFI -doRSH -doRCE implementation conditions.
+
+==============================================
+Latest additions : (as of Mar 04 2011)
+
+Added a commandline parameter MAXTHREADS for bsdAUTOPWN and winAUTOPWN. This will override portscan threading set by winAUTOPWN/bsdAUTOPWN according to the IP address.
+Added MAXTHREADS parameter in the Frontend Win32 GUI for winAUTOPWN.
+
+==============================================
+Latest additions : (as of Nov 30 2010)
+
+Added -skipscan for bsdAUTOPWN
+Added a commandline parameter -onlyscan for bsdAUTOPWN and winAUTOPWN. This will do portscan alone and will not test exploits.
+Added smart multithreading in winAUTOPWN. Sets 10 threads for Public IP addresses and 1000 for Private IP addresses
+Added a commandline parameter -doRSH to force Remote Shell Upload Vulnerability Scan Module Exploits which is set to off by default
+CMS Administrator Username is set to admin if it is left blank
+FTP/CMS Username and Password are set to anonymous if they are left blank
+
+==============================================
+Latest additions : (as of Oct 30 2010)
+
+Added a commandline parameter -doRFI to force Remote File Inclusion Vulnerability Scan Module which is set to off from now onwards by default.
+Added a commandline parameter -doRCE to force Remote Code Execution Web Vulnerability Scan Module which is set to off from now onwards by default.
+Changed bsdAUTOPWN Portscan to support multithreading. 
+Added smart multithreading in BSDAUTOPWN. Sets 10 threads for Public IP addresses and 1000 for Private IP addresses.
+Added BSDAUTOPWN for DragonFly BSD (SVR4)
+
+==============================================
+Latest additions : (as of Jul 31 2010)
+
+BSDAUTOPWN now includes almost all exploits except for webserver exploits.
+BSDAUTOPWN binaries and exploits available for x86 and x64 FreeBSD platforms.
+
+==============================================
+Latest additions : (as of Mar 31 2010)
+
+Introduced BSDAUTOPWN - BSD equivalent for winAUTOPWN which is winAUTOPWN written and compiled to run on BSD systems.
+
+==============================================
+Latest additions : (as of Jan 29 2010)
+
+Exploits for Port 80 get fired after completing execution for all other ports.
+For 2 exploits, nc.exe now starts listening (as required) without requiring interruption from winAUTOPWN.
+Internal variable addition to support a few new exploits.
+GUI bug fixes. Allows you to keep any textbox empty.
+
+==============================================
+Latest additions : (as of Nov 3 2009)
+
+Added full commandline argument support for all interactive options
+Added a Frontend Win32 GUI for winAUTOPWN
+
+==============================================
+Latest additions : (as of Apr 11 2009)
+
+Added WINAUTOPWN EXPLOIT LOADING FRAMEWORK support and hence the commandline argument "-welf" to allow support to make
+winAUTOPWN load and execute any external exploit using
+WINAUTOPWN EXPLOIT LOADING LANGUAGE script.
+
+==============================================
+Latest additions : (as of Apr 1 2009)
+
+Added a feature to override winAUTOPWN PortScan if you already have
+OpenPorts.TXT filled with the list of open ports.
+For this use the -skipscan argument.
+Example : "winautopwn.exe -skipscan"
+» Skipping PortScan .. !!
+
+
+==============================================

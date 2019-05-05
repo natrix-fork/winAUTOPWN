@@ -1,0 +1,5 @@
+- Add nmap output support for -skipscan
+- Add multiple IP support
+
+- One frontend in Erlang
+- Compiled winAUTOPWN binary for FreeBSD (DONE)

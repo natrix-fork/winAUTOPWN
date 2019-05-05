@@ -1,0 +1,53 @@
+WINDOWS AUTOPWN / BSD AUTOPWN Software License Agreement
+
+Please read this End-User License Agreement (the "EULA") 
+
+IMPORTANT --- READ CAREFULLY. By installing, copying, or otherwise using the Software, you are agreeing to be bound by the terms of this EULA, including the WARRANTY DISCLAIMERS, LIMITATIONS OF LIABILITY, and TERMINATION PROVISIONS. If you do not agree to the terms of this EULA do not install or use the Software. 
+
+LICENSE TERMS 
+
+1. The Software is supplied by Azim Poonawala ("QUAKERDOOMER") and is licensed, not sold, under the terms of this EULA and QUAKERDOOMER reserves all rights not expressly granted to you. QUAKERDOOMER retains the ownership of the Software. 
+
+2. Software License: 
+
+a. QUAKERDOOMER grants you a license to use any number of copies of the Software. You may not modify or disable any licensing or control features of the Software.
+
+b. This Software is licensed to operate on only any number of domains.
+
+c. Any number of companies may use the Software for its intended purpose on any number of domains. This company may not sell the products or services of other companies in the capacity of an on-line mall or buyer service. If more than one company wishes to modify and use the Software they must take permission from QUAKERDOOMER and purchase a separate license.
+
+3. License Restrictions: 
+
+a. By accepting this EULA you are agreeing not to reverse engineer, decompile, or disassemble the Software Application(winAUTOPWN.exe, bsdAUTOPWN, bsdAUTOPWN.x.x64, bsdAUTOPWN.dfly.SVR4, mod_shellcode, mod_shellcode.x.x64, mod_shellcode.dfly.SVR4) except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. 
+
+b. You are the exclusive licensee of the Software and sharing any reverse engineered source code of the Software with any individual or entity is a violation of copyright laws and international treaties and cause for license termination.
+
+c. Modifying any portion of the Software source code or asking any individual or entity to modify the reverse engineered Software source code other than QUAKERDOOMER is a violation of copyright laws and international treaties and cause for license termination.
+
+d. If you upgrade the Software to a higher version of the Software, this EULA is terminated and your rights shall be limited to the EULA associated with the higher version. 
+
+4. Proprietary Rights: All title and copyrights in and to the Software (including, without limitation, any images, photographs, animations, video, audio, music, text, and "applets" incorporated into the Software Application), the accompanying media and printed materials, and any copies of the Software are owned by QUAKERDOOMER. The Software is protected by copyright laws and international treaty provisions. Therefore, you must treat the Software like any other copyrighted material, subject to the provisions of this EULA. 
+
+5. Termination Rights: Without prejudice to any other rights, QUAKERDOOMER may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the Software and all of its component parts, and QUAKERDOOMER may suspend or deactivate your use of the Software with or without notice.
+
+6. Export Control: You may not export or re-export the Software or any copy or adaptation of the Software in violation of any applicable laws or regulations.
+
+7. QUAKERDOOMER does not warrant that the operation of WINDOWS AUTOPWN Software will be uninterrupted or error free. QUAKERDOOMER Software may contain third-party functions or may have been subject to incidental use. 
+
+8. QUAKERDOOMER is not responsible for problems resulting from improper or inadequate maintenance or configuration; software or interface routines or functions developed or NOT developed by QUAKERDOOMER; unauthorized specifications for the Software; improper site preparation or maintenance; Beta Software; encryption mechanisms or routines. 
+
+Good data processing procedure dictates that any program be thoroughly tested with non-critical data before relying on it. The user must assume the entire risk of using the Software. IN NO EVENT WILL QUAKERDOOMER OR ITS SUPPLIERS BE LIABLE FOR DIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL (INCLUDING LOST PROFIT OR LOST SAVINGS) OR OTHER DAMAGE WHETHER BASED IN CONTRACT, TORT, OR OTHERWISE EVEN IF A QUAKERDOOMER REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY CLAIM BY ANY THIRD PARTY. Some states or provinces do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+
+9. Submissions: Should you decide to transmit to QUAKERDOOMER by any means or by any media any information (including, without limitation, ideas, concepts, or techniques for new or improved services and products), whether as information, feedback, data, questions, comments, suggestions, or the like, you agree such submissions are unrestricted and shall be deemed non-confidential and you automatically grant QUAKERDOOMER and its assigns a non-exclusive, royalty-free, worldwide, perpetual, irrevocable license, with the right to sublicense, to use, copy, transmit, distribute, create derivative works of, display, and perform the same.
+
+10. Distribution and Backups 
+
+a. DISTRIBUTION OF THE REGISTERED VERSION OF THE Software IS STRICTLY PROHIBITED and is a violation of India Federal, State or City law and international treaties punishable by severe criminal and civil penalties. 
+
+b. You may make copies of the Software for backup purposes only. All backup copies must be an exact copy of the original Software. 
+
+11. Refunds Policy: The author of this document will have the final say over any dispute over refunds . 
+
+11. Final Re-Warning
+All of the above and below do not apply to the exploit source code files present in the exploit/ folder/directory which might contain exploit source codes in perl, python, php, ruby and might be  owned separately by the exploit writers. The exploits source code might be separately ownned by the exploit writer and may have separate License for it. QUAKERDOOMER is not responsible for how you use those exploits.
+But all of the above applies to the WINDOWS AUTOPWN compiled binaries and supporting modules wriotten and compiled by QUAKERDOOMER.

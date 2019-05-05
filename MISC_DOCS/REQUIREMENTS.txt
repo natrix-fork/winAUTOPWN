@@ -1,0 +1,13 @@
+PERL
+PHP - compiled with the PCRE extension (preferrable PHP5)
+php_curl.dll (Registered in php.ini)
+PHP/HTTP_Request2
+PYTHON 2.7
+PYTHON/IMPACKET
+PYTHON/pycrypto
+PYTHON/pyposter-04
+PYTHON/pycrypto-2.3
+PYTHON/Lots of Other dependencies
+RUBY
+WINPCAP
+LOTS OF SLEEP

